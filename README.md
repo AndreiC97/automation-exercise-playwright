@@ -30,7 +30,7 @@ A Playwright .NET (MSTest) test automation suite for [automationexercise.com](ht
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AndreiC97/automation-exercise-playwright.git
+   git clone https://github.com/AndreiC97/automation-exercise-playwright
    cd AutomationExercise
    ```
 
