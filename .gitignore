@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Test results
+TestResults/
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.user
+*.userosscache
+*.sln.user
+*.suo
+
+# ReSharper
+.idea/
+*.resharper
+
+# Rider
+.idea/
+.idea_modules/
+
+# Playwright browser binaries (optional - comment out if you want to commit)
+# bin/Debug/net8.0/playwright/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
